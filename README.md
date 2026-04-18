@@ -11,8 +11,11 @@ The goal is not only to predict grades, but also to explain how environmental an
 
 The target variable is `G3`, the final grade, which is a numeric score from 0 to 20.
 
-## Dataset
-This project uses the **UCI Student Performance** dataset through the `ucimlrepo` package.
+## Dataset Source
+This project uses local offline dataset files stored in the `data/` folder:
+
+- `data/student-mat.csv`
+- `data/student-por.csv`
 
 ## Why This Dataset
 The dataset is a strong fit for this topic because it includes:
