@@ -7,3 +7,4 @@ venv/
 outputs/figures/*.png
 outputs/metrics/*.csv
 outputs/metrics/*.json
+desktop.ini
