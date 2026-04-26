@@ -137,9 +137,9 @@ Use this section to show each member's contribution.
 
 | Team Member | Algorithm / Responsibility |
 |---|---|
-| Hoeurng Phally | Linear Regression and EDA |
+| Hoeurng Phally | Linear Regression |
 | Som Soknouch | Random Forest Regressor |
-| Kong Sinh | Gradient Boosting Regressor and Model Comparison |
+| Kong Sinh | EDA, Gradient Boosting Regressor and Model Comparison |
 
 ## Challenges
 Some challenges in this project include:
