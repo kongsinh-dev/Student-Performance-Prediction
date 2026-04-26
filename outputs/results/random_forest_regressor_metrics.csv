@@ -1,0 +1,2 @@
+Model,MAE,RMSE,R2 Score,Best Parameters
+Random Forest Regressor,0.9347607655502392,1.634686989923124,0.8271629923046625,"{'regressor__max_depth': None, 'regressor__min_samples_split': 2, 'regressor__n_estimators': 200}"

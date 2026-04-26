@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2,Best Parameters
+Gradient Boosting Regressor,1.5409772997338465,0.8851484990724415,0.8464110367993725,"{'model__learning_rate': 0.1, 'model__max_depth': 2, 'model__n_estimators': 80}"
+Random Forest Regressor,1.665025648604471,0.9385728720043912,0.8206879885783843,"{'model__max_depth': None, 'model__min_samples_leaf': 2, 'model__n_estimators': 80}"
+Ridge Regression,1.7583797183621144,1.0122230154362377,0.800017101746593,{'model__alpha': 10}
+Linear Regression,1.7599332875539064,1.0168877078816247,0.7996635665959497,

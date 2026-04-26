@@ -1,0 +1,2 @@
+Model,MAE,RMSE,R2 Score,Best Parameters
+Gradient Boosting Regressor,0.8867769974601049,1.563733435770233,0.8418413420448457,"{'regressor__learning_rate': 0.05, 'regressor__max_depth': 2, 'regressor__n_estimators': 100}"

@@ -1,0 +1,18 @@
+{
+  "math_shape": [
+    395,
+    34
+  ],
+  "portuguese_shape": [
+    649,
+    34
+  ],
+  "combined_shape": [
+    1044,
+    34
+  ],
+  "missing_values_total": 0,
+  "duplicate_rows": 0,
+  "target": "G3",
+  "task": "Regression"
+}
